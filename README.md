@@ -18,7 +18,7 @@ O projeto consiste em uma aplicação web, criada com o objetivo de estudo, que 
 ![NOTIFY](https://github.com/RaulBernardess/assets/blob/main/dsmeta/notify.JPG)
 ![NOTIFY2](https://github.com/RaulBernardess/assets/blob/main/dsmeta/notify2.JPG)
 
-### Obs: o serviço da Twilio não permite envio para outros números na versão trial, mas para estudo está ótimo.
+### Obs: o serviço da Twilio não permite envio para outros números na versão trial.
 
 # Tecnologias utilizadas
 ## Back end
