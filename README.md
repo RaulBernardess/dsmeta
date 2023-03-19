@@ -5,7 +5,7 @@
 
 Dsmeta é uma aplicação full stack web construída durante a **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-O projeto consiste em uma aplicação web, criada com o objetivo de estudo, que apresenta uma tabela dos dados de vendas realizadas, podendo ser filtradas por período. Existe ainda uma funcionalidade que envia esses dados por meio do serviço de SMS.
+O projeto consiste em uma aplicação web, criada com o objetivo de estudo, que apresenta uma tabela com dados de vendas realizadas disponibilizadas pela API REST, podendo ser filtradas por período. Existe ainda uma funcionalidade que envia esses dados por meio do serviço de SMS.
 
 ## Layout Web
 ![Web](https://github.com/RaulBernardess/assets/blob/main/dsmeta/web2.png)
